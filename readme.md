@@ -2,7 +2,7 @@
 ## Version 1.50
 
 # Requirements
-* Xilinx SDK v2019.1
+* Xilinx Vitis v2020.2
 
 # Supported Software
 |Product       | Version  |
@@ -25,5 +25,6 @@
 |uC/TELNETs    | v1.06.00 |
 |uC/USB-Device | v4.06.00 |
 |uC/USB-Host   | v3.42.00 |
+|lwip211       | v1.3     |
 
 ## Installation and usage instructions can be found at https://doc.micrium.com/display/UCOSXSDK/uCOS+Xilinx+SDK+Repository+Documentation+Home
